@@ -15,7 +15,7 @@ body{ background-image: url("../images/cowbackground.jpg")
 .myheader {
 	background-image: url("../images/windmill3.jpg");
 	height:200px;
-	background-size: cover;
+	background-size: contain;
 	
 }
 
