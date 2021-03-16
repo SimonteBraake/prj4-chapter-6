@@ -1,11 +1,19 @@
 body{ background-image: url("../images/cowbackground.jpg")}
 
 .myblue {
-	background-color:#8F99CA
+	background-color:#FFFFFF
+}
+.images {
+	background-color: #FFFFFF
+}
+.bigboy {
+	font-size: 30px;
+	
+	
 }
 
 .myred {
-    background-color: #FE0000
+    background-color:#EAAD30
 }
 
 .myheader {
